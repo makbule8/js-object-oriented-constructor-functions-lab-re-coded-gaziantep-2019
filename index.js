@@ -1,12 +1,12 @@
-function Dog(name, breed, age) {
+function Dog(name, experience, age) {
   this.name = name;
-  this.breed = breed;
+  this.experience = experience;
   this.age = age;
 }
 
-function Cat(name, breed, age){
+function Cat(name, experience, age){
   this.name = name;
-  this.breed = breed;
+  this.experience = experience;
   this.age = age;
 }
 
